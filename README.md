@@ -1,2 +1,2 @@
-# Apeperia-Curso-Alura
-Projeto desenvolvido em curso da Alura.
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
